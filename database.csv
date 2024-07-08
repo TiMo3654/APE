@@ -1,1 +1,28 @@
-title, conference, year, keyword1, keyword2, keyword3, keyword4, keyword5, 
+title,conference,year,label1,label2,label3,label4,label5,label6
+Trade-Off Between Accuracy and Computational Time for Magnetics Thermal Model Based on Artificial Neural Networks (ANN), DMC, 2021, artificial intelligence, thermal, device, magnetics, modeling, algorithm
+Automated design of integrated inductive components for DC-DC converters, DMC, 2021, design automation, electrical, circuit, mixed, sizing, algorithm
+Efficient Design and Optimization of Large DC Distribution Architectures Using Descent Based Methods, DMC, 2021, design automation, electrical, system, mixed, sizing, algorithm
+Full Analytical Topology-Device Selection and Multi-objective Optimization of a 27 kVA Aircraft Inverter, DMC, 2021, design automation, electrical, circuit, mixed, sizing, algorithm
+Optimal Design Automation Tool for LLC Converter Based on Time Domain Modelling, DMC, 2021, design automation, electrical, circuit, mixed, sizing, algorithm
+Machine Learning Estimators for Power Electronics Design and Optimization, DMC, 2021, artificial intelligence, electrical, device, semiconductor, sizing, algorithm
+Placement and Routing for Power Module Layout, DMC, 2021, design automation, electrical, circuit, semiconductor, layout, algorithm
+PowerSynth Integrated CAD flow for High Density Power Modules, DMC, 2021, design automation, electrical, circuit, semiconductor, layout, algorithm
+Design Methodology for High Performance Electric Vehicle Power Electronics, DMC, 2021, design automation, mixed, system, mixed, sizing, procedure
+Online Health Monitoring in Power Modules for Inverter Topologies using Isolated Parameter Acquisition, DMC, 2021, measurement, electrical, circuit, semiconductor, control, procedure
+Design Automation Combining Analytical Models and Numerical Simulations for Three-level Neutral-point-clamped dc-dc Converter, DMC, 2021, design automation, electrical, circuit, mixed, sizing, algorithm
+An Advanced Persistent Threat (APT)-Style Cyberattack Testbed for Distributed Energy Resources (DER), DMC, 2021, cybersecurity, mixed, system, mixed, control, procedure
+Estimation of Switching Losses using Simplified Compact Models for SiC Power MOSFETs, DMC, 2021, design autoamtion, electrical, device, semiconductor, modeling, procedure
+Multi Expansion Point Reduced Order Modelling for Electromagnetic Design of Power Electronics, DMC, 2021, design automation, electrical, circuit, mixed, modeling, procedure
+A Component Manipulation Algorithm to Enable Design Automation of Power Electronic PCBs, DMC, 2021, design automation, electrical, circuit, mixed, layout, algorithm
+Characterization and modeling of 650V GaN diodes for high frequency power conversion, DMC, 2021, design automation, electrical, device, semiconductor, modeling, procedure
+An N-port system model for multiwinding  transformer based multilevel converters in DC-autotransformer configuration, DMC, 2021, design automation, electrical, device, magnetics, modeling, procedure
+Design of a Bidirectional DC/DC Converter for Energy Storage in Electric Aircraft, DMC, 2021, design automation, electrical, circuit, mixed, sizing, procedure
+Thermal Topology Optimization for High Power  Density Power Electronic Systems in Passively Cooled Housings, DMC, 2021, design automation, thermal, system, mixed, packaging, procedure
+Fast and Accurate Electric Field Model for Optimizing the Insulation Design of Magnetic Devices, DMC, 2021, design automation, electrical, device, magnetics, modeling, procedure
+Investigation of Cell Voltage Buffer Manipulation Attack in a Battery Management System using Unsupervised Learning Technique, DMC, 2021, cybersecurity, electrical, system, mixed, monitoring, procedure
+An Automated Design Tool for Three-phase Motor Drives, DMC, 2021, design automation, electrical, circuit, mixed, sizing, algorithm
+Blockchain-Based Man-in-the-Middle (MITM) Attack Detection for Photovoltaic Systems, DMC, 2021, cybersecurity, mixed, system, mixed, control, procedure
+Cyber Protection of Grid-Connected Devices Through Embedded Online Security, DMC, 2021, cybersecurity, mixed, system, mixed, control, procedure
+Fast Estimation of Best Achievable Inductor Power Density in Circuit Simulation (with DC-bias Effects), DMC, 2021, design automation, electrical, device, magnetics, sizing, procedure
+A Multi-Objective Genetic Algorithm Methodology for the Design of Standalone Energy Systems, DMC, 2021, design automation, electrical, system, mixed, sizing, algorithm
+
