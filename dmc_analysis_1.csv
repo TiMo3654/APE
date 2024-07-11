@@ -1,0 +1,70 @@
+﻿Year,ID,Title,Citations,Track,Domain,Level,Target,Application,Algorithm,Availability,Task,Paradigm
+2022,9906474,Machine Learning-based Component Figures of Merit and Models for DC-DC Converter Design,7,AI/ML Methods,Electrical,Device,Discrete,Inverter ,Supervised Learning,NA,Component Selection,Learning-based
+2022,9906538,Device-Centric Firmware Malware Detection for Smart Inverters using Deep Transfer Learning,6,Cybersecurity,NA,System,NA,Inverter ,NA,NA,NA,Learning-based
+2022,9906542,Virtual PCB Layout Prototyping: Importance of Modeling Gate Driver and Parasitic Capacitances,2,Design Automation,Electrical,Circuit,Discrete,Inverter ,NA,Commercial SW,Model Building,NA
+2022,9906473,Broad-Scale Converter Optimization Utilizing Discrete Time State-Space Modeling,1,Design Automation,Electrical,Circuit,Discrete,Charger,Gradient-based,NA,Component Selection,Optimization
+2022,9906470,Genetic Algorithm-Based Optimized Modulation For Dual Active Bridge PFC Circuit For Electric Vehicle Application,1,Design Automation,Electrical,Circuit,Discrete,Inverter ,Genetic Algorithm,NA,Controller Design,Optimization
+2022,9906537,Antithetical Design Methodologies of Position-Free Transmitter Coils in Wireless Power Transfer,1,Design Automation,Electrical,Device,Magnetics,Charger,Genetic Algorithm,NA,Component Selection,Optimization
+2022,9906468,Thermal Runaway Mitigation through Electrothermal Constraints Mapping for MCPM Layout Optimization,1,Design Automation,Multi-Physics,Circuit,Power Module,NA,MOA,Closed-Source,Layout Optimisation,Optimization
+2022,9906472,Digital Twin of an ANPC inverter with integrated Design-For-Trust,1,Cybersecurity,NA,Circuit,NA,Inverter ,NA,NA,NA,NA
+2022,9906539,Implementation of Multi-Expansion Point Model Order Reduction for Coupled PEEC-Semiconductor Simulations,1,Design Automation,Electrical,Device,Discrete,NA,NA,Closed-Source,Model Building,NA
+2022,9906536,Simplified Gain and Phase Margin PI Tuning Method for SPMSM Control,0,Design Automation,Electrical,Circuit,Discrete,Motor Driver,NA,NA,Controller Design,NA
+2022,9906540,Computer-Aided Thermal Analysis of an Electric-Vehicle Universal Battery Supercharger,0,Design Automation,Thermal,Circuit,Discrete,Charger,NA,Commercial SW,Thermal Analysis,NA
+2022,9906467,Optimization Tool for the Characterization of Electric Vehicle Battery Packs,0,Design Automation,Electrical,System,NA,Battery,Genetic Algorithm,Closed-Source,System Integration,Optimization
+2022,9906469,Towards Real Time Thermal Simulations for Design Optimization using Graph Neural Networks,0,AI/ML Methods,Thermal,System,Discrete,Inverter ,Supervised Learning,Closed-Source,Co-Design,Learning-based
+2022,9906544,A Preliminary Investigation into Approximating Power Transistor Switching Behavior using a Multilayer Perceptron,0,AI/ML Methods,Electrical,Device,Power Semiconductor,,Supervised Learning,Closed-Source,Component Selection,Learning-based
+2022,9906475,Methodology for Designing Embedded Real-Time Electrothermal Models in PYNQ Z1 System on Chip,0,AI/ML Methods,Multi-Physics,System,Integrated Circuit,NA,Supervised Learning,Closed-Source,Model Building,Learning-based
+2022,9906541,Magnetic material modelling using the PEEC method and linear basis functions,0,Design Automation,Multi-Physics,Device,Magnetics,NA,NA,Closed-Source,Model Building,NA
+2022,9906543,Simulating the Conducted EM Emissions of a Synchronous Buck Converter using an 80V GaN Half Bridge Power Stage,0,Design Automation,Electrical,Circuit,Discrete,Inverter ,NA,Commercial SW,EM Analysis,NA
+2023,10412561,Analyzing the Effects of Interference and Packet Loss on Consensus-Based Secondary Control in Islanded AC Microgrid,5,Cybersecurity,NA,System,NA,Grid,NA,Closed-Source,NA,NA
+2023,10412460,State of Charge Estimation Using Data-Driven Models for Inverter-Based Systems,2,Design Automation,Electrical,System,NA,Battery,NA,Closed-Source,Model Building,Learning-based
+2023,10412551,Analog Resistive Sensing Control for GaN FET’s based Totem Pole PFC,1,Design Automation,Electrical,Circuit,Discrete,Inverter ,NA,Closed-Source,Controller Design,Knowledge-based
+2023,10412598,Fully Modular Dynamic SiC and GaN Testbench with Automated Temperature and Gate-Voltage Characterization,1,Verification,Multi-Physics,Device,Power Semiconductor,NA,NA,Closed-Source,Measurement,Knowledge-based
+2023,10412494,Design of Auxiliary Power Supply for Medium Voltage Applications,1,Design Automation,Electrical,Circuit,Discrete,Inverter ,NA,Commercial SW,Component Selection,Knowledge-based
+2023,10412479,Rapid Prototyping of a SiC-Based PMSM Motor Drive for Aerospace Applications,1,Design Automation,Electrical,Circuit,Discrete,Motor Driver,NA,Commercial SW,Controller Design,Knowledge-based
+2023,10412497,A Comparative Study on Optimization Algorithms in PowerSynth 2,0,Design Automation,Electrical,Circuit,Power Module,NA,MOPSO,Closed-Source,Layout Optimisation,Optimization
+2023,10412580,Digital Twin for Gate-Resistor Optimization of Parallel 100 V 7 mΩ GaN HEMTs based on Comprehensive Multi-Domain Simulations and Physically-Motivated Transistor Models,0,Design Automation,Electrical,Device,Power Semiconductor,Inverter ,NA,Commercial SW,Component Selection,Optimization
+2023,10412584,Behavioural SiC IGBT Modelling Using Non-Linear Voltage and Current Dependent Capacitances,0,Design Automation,Electrical,Circuit,Discrete,Inverter ,NA,Commercial SW,Model Building,NA
+2023,10412508,An Automated Optimal Design Procedure of a Nonlinear Inductor-Based Hybrid Dc Circuit Breaker,0,Design Automation,Electrical,Circuit,Discrete,Inverter ,NA,NA,Component Selection,Knowledge-based
+2023,10412404,Optimized Design of Fast-Switching GaN-based Inverters Utilizing a Digital Prototype in a Standardized Realistic Test Cycle,0,Design Automation,Electrical,Circuit,Discrete,Inverter ,NA,NA,Component Selection,Knowledge-based
+2023,10412596,Novel Metamaterial Design for Electromagnetic Interference Mitigation between Transmission Lines,0,Design Automation,Electrical,Circuit,Discrete,NA,NA,NA,EM Analysis,Knowledge-based
+2023,10412390,VLSI-Inspired Design Automation for Scalable Power Electronics Layout Optimization,0,Design Automation,Electrical,Circuit,Power Module,NA,NA,Closed-Source,Layout Optimisation,Optimization
+2023,10412585,Power Electronics for Off-Grid Gigawatt-Scale Green Hydrogen Production for Steel Manufacturing—Architectures; Costs; and Efficiencies Analysis Tool1,0,Design Automation,Multi-Physics,System,NA,Grid,NA,NA,System Integration,Knowledge-based
+2023,10412548,Automatic Layout Design and Implementation for Three Phase Voltage Source Converters,0,Design Automation,Electrical,Circuit,Discrete,NA,Simulated Annealing,NA,Layout Optimisation,Optimization
+2023,10412521,Automated Layout Optimization Methods of a Bidirectional DC-DC ZVS Converter Using PowerSynth,0,Design Automation,Electrical,Circuit,Power Module,Inverter ,NA,Closed-Source,Layout Optimisation,Optimization
+2023,10412452,Datasheet Based SiC MOSFET Models for Accurate Switching Waveform Prediction in Virtual Prototyping Applications,0,Design Automation,Electrical,Device,Power Semiconductor,NA,NA,NA,Model Building,Knowledge-based
+2023,10412597,Quantum Convolutional Neural Network-based Online Malware File Detection for Smart Grid Devices,0,Cybersecurity,NA,System,Grid,NA,NA,Closed-Source,NA,NA
+2021,9529949,Blockchain-Based Man-in-the-Middle (MITM) Attack Detection for Photovoltaic Systems,12,Cybersecurity,NA,System,Grid,Inverter ,NA,NA,NA,NA
+2021,9529953,An Advanced Persistent Threat (APT)-Style Cyberattack Testbed for Distributed Energy Resources (DER),11,Cybersecurity,NA,System,Grid,NA,NA,NA,NA,NA
+2021,9529935,Cyber Protection of Grid-Connected Devices Through Embedded Online Security,7,Cybersecurity,NA,System,Grid,NA,NA,NA,NA,NA
+2021,9529937,Machine Learning Estimators for Power Electronics Design and Optimization,6,AI/ML Methods,Electrical,Circuit,Discrete,Inverter ,Supervised Learning,NA,Model Building,Learning-based
+2021,9529940,Placement and Routing for Power Module Layout,4,Design Automation,Electrical,Circuit,Power Module,NA,Force-directed,NA,Layout Optimisation,Optimization
+2021,9529929,Optimal Design Automation Tool for LLC Converter Based on Time Domain Modelling,3,Design Automation,Electrical,Circuit,Discrete,Inverter ,NA,NA,Circuit Concept,Knowledge-based
+2021,9529933,Investigation of Cell Voltage Buffer Manipulation Attack in a Battery Management System using Unsupervised Learning Technique,3,Cybersecurity,NA,System,NA,Battery,NA,NA,NA,NA
+2021,9529945,PowerSynth Integrated CAD flow for High Density Power Modules,3,Design Automation,Electrical,Circuit,Power Module,NA,NA,Closed-Source,Layout Optimisation,Optimization
+2021,9529932,Trade-Off Between Accuracy and Computational Time for Magnetics Thermal Model Based on Artificial Neural Networks (ANN),3,AI/ML Methods,Thermal,Device,Magnetics,NA,Supervised Learning,NA,Model Building,Learning-based
+2021,9529938,A Component Manipulation Algorithm to Enable Design Automation of Power Electronic PCBs,3,Design Automation,Electrical,Circuit,Discrete,NA,Random Walk,NA,Layout Optimisation,Optimization
+2021,9529944,An Automated Design Tool for Three-phase Motor Drives,3,Design Automation,Electrical,Circuit,Discrete,Motor Driver,NA,NA,Circuit Concept,Knowledge-based
+2021,9529950,Multi Expansion Point Reduced Order Modelling for Electromagnetic Design of Power Electronics,3,Design Automation,Electrical,Device,Discrete,NA,NA,NA,EM Analysis,Knowledge-based
+2021,9529930,Design Automation Combining Analytical Models and Numerical Simulations for Three-level Neutral-point-clamped dc-dc Converter,2,Design Automation,Electrical,Circuit,Discrete,Inverter ,NA,Open-Source,Circuit Concept,Knowledge-based
+2021,9529942,Thermal Topology Optimization for High Power Density Power Electronic Systems in Passively Cooled Housings,2,Design Automation,Thermal,System,Discrete,Inverter ,NA,Commercial SW,Co-Design,Knowledge-based
+2021,9529948,Fast Estimation of Best Achievable Inductor Power Density in Circuit Simulation (with DC-bias Effects),2,Design Automation,Multi-Physics,Device,Discrete,Inverter ,NA,NA,Component Selection,Knowledge-based
+2021,9529931,Characterization and modeling of 650V GaN diodes for high frequency power conversion,1,Design Automation,Electrical,Device,Power Semiconductor,NA,NA,NA,Model Building,Knowledge-based
+2021,9529943,Fast and Accurate Electric Field Model for Optimizing the Insulation Design of Magnetic Devices,1,Design Automation,Electrical,Device,Magnetics,NA,NA,NA,Model Building,Knowledge-based
+2021,9529934,Estimation of Switching Losses using Simplified Compact Models for SiC Power MOSFETs,1,Design Automation,Electrical,Device,Power Semiconductor,NA,NA,NA,Model Building,Knowledge-based
+2021,9529936,Automated design of integrated inductive components for DC-DC converters,1,Design Automation,Multi-Physics,Circuit,Discrete,NA,Genetic Algorithm,NA,Model Building,Optimization
+2021,9529946,Online Health Monitoring in Power Modules for Inverter Topologies using Isolated Parameter Acquisition,1,Verification,Electrical,Device,Power Semiconductor,Inverter ,NA,NA,Maintenance,NA
+2021,9529947,Design Methodology for High Performance Electric Vehicle Power Electronics,0,Design Automation,Multi-Physics,System,Discrete,Inverter ,NA,NA,System Integration,Knowledge-based
+2021,9529928,An N-port system model for multiwinding transformer based multilevel converters in DC-autotransformer configuration,0,Design Automation,Electrical,Circuit,Magnetics,Inverter ,NA,NA,Model Building,Knowledge-based
+2022,9906471,ML Self-Sufficient Sustainable Energy Resiliency Management System: Outage Forecasting; Classification and Restoration with Maintenance Indicators for All Types of Power Outages,1,AI/ML Methods,Electrical,System,NA,NA,Supervised Learning,NA,Maintenance,Learning-based
+2023,10412563,Dynamic Pulsed Load Mitigation in PV-Battery-Supercapacitor Systems: A Hybrid PI-NN Controller Approach,1,AI/ML Methods,Electrical,System,Discrete,Inverter ,Supervised Learning,NA,Controller Design,Learning-based
+2023,10412603,An Introduction to Power Electronics Design Methodology,1,Design Automation,Electrical,System,Discrete,NA,NA,NA,Circuit Concept,Knowledge-based
+2023,10412480,Automated Design and Optimization of Planar Transformers for High-Frequency Applications,0,Design Automation,Electrical,Device,Magnetics,NA,Genetic Algorithm,NA,Component Selection,Optimization
+2023,10412465,Virtual Prototyping of PLCs for Fault Prediction and Optimization,0,Cybersecurity,NA,System,NA,NA,NA,NA,NA,NA
+2023,10412473,Fuzzing for Power Grids: A Comparative Study of Existing Frameworks and a New Method for Detecting Silent Crashes in Control Devices,0,Cybersecurity,NA,System,Grid,NA,NA,NA,NA,NA
+2023,10412485,Towards Cloud-based Infrastructure for Post-Quantum Cryptography Side-channel Attack Analysis,0,Cybersecurity,NA,System,NA,NA,NA,NA,NA,NA
+2023,10412423,Machine Learning Based Non-Intrusive Inspection Technique to Quantify GaN HEMT Characteristics,0,AI/ML Methods,Electrical,Device,Power Semiconductor,NA,Unsupervised Learning,NA,Maintenance,Learning-based
+2021,9529939,A Multi-Objective Genetic Algorithm Methodology for the Design of Standalone Energy Systems,3,Design Automation,Electrical,System,Discrete,NA,Genetic Algorithm,NA,System Integration,Optimization
+2021,9529941,Design of a Bidirectional DC/DC Converter for Energy Storage in Electric Aircraft,2,Design Automation,Electrical,Circuit,Discrete,Inverter ,NA,NA,Component Selection,Knowledge-based
+2021,9529951,Efficient Design and Optimization of Large DC Distribution Architectures Using Descent Based Methods,0,Design Automation,Electrical,System,Discrete,NA,Gradient-based,NA,System Integration,Optimization
+2021,9529952,Full Analytical Topology-Device Selection and Multi-objective Optimization of a 27 kVA Aircraft Inverter,0,Design Automation,Electrical,Circuit,Discrete,Inverter ,NA,NA,Circuit Concept,Optimization
