@@ -1,5 +1,5 @@
 ﻿Year,ID,Title,Citations,Track,Domain,Level,Target,Application,Algorithm,Availability,Task,Paradigm
-2022,9906474,Machine Learning-based Component Figures of Merit and Models for DC-DC Converter Design,7,AI/ML Methods,Electrical,Device,Discrete,Inverter ,Supervised Learning,NA,Component Selection,Learning-based
+2022,9906474,Machine Learning-based Component Figures of Merit and Models for DC-DC Converter Design,7,AI/ML Methods,Electrical,Device,Discrete,Inverter ,Supervised Learning,NA,Model Building,Learning-based
 2022,9906538,Device-Centric Firmware Malware Detection for Smart Inverters using Deep Transfer Learning,6,Cybersecurity,NA,System,NA,Inverter ,NA,NA,NA,Learning-based
 2022,9906542,Virtual PCB Layout Prototyping: Importance of Modeling Gate Driver and Parasitic Capacitances,2,Design Automation,Electrical,Circuit,Discrete,Inverter ,NA,Commercial SW,Model Building,NA
 2022,9906473,Broad-Scale Converter Optimization Utilizing Discrete Time State-Space Modeling,1,Design Automation,Electrical,Circuit,Discrete,Charger,Gradient-based,NA,Component Selection,Optimization
@@ -11,7 +11,7 @@
 2022,9906536,Simplified Gain and Phase Margin PI Tuning Method for SPMSM Control,0,Design Automation,Electrical,Circuit,Discrete,Motor Driver,NA,NA,Controller Design,NA
 2022,9906540,Computer-Aided Thermal Analysis of an Electric-Vehicle Universal Battery Supercharger,0,Design Automation,Thermal,Circuit,Discrete,Charger,NA,Commercial SW,Thermal Analysis,NA
 2022,9906467,Optimization Tool for the Characterization of Electric Vehicle Battery Packs,0,Design Automation,Electrical,System,NA,Battery,Genetic Algorithm,Closed-Source,System Integration,Optimization
-2022,9906469,Towards Real Time Thermal Simulations for Design Optimization using Graph Neural Networks,0,AI/ML Methods,Thermal,System,Discrete,Inverter ,Supervised Learning,Closed-Source,Co-Design,Learning-based
+2022,9906469,Towards Real Time Thermal Simulations for Design Optimization using Graph Neural Networks,0,AI/ML Methods,Thermal,System,Discrete,Inverter ,Supervised Learning,Closed-Source,Model Building,Learning-based
 2022,9906544,A Preliminary Investigation into Approximating Power Transistor Switching Behavior using a Multilayer Perceptron,0,AI/ML Methods,Electrical,Device,Power Semiconductor,,Supervised Learning,Closed-Source,Component Selection,Learning-based
 2022,9906475,Methodology for Designing Embedded Real-Time Electrothermal Models in PYNQ Z1 System on Chip,0,AI/ML Methods,Multi-Physics,System,Integrated Circuit,NA,Supervised Learning,Closed-Source,Model Building,Learning-based
 2022,9906541,Magnetic material modelling using the PEEC method and linear basis functions,0,Design Automation,Multi-Physics,Device,Magnetics,NA,NA,Closed-Source,Model Building,NA
